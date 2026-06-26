@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="right-top-arrow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="22.778203"
+     inkscape:cx="6.694997"
+     inkscape:cy="9.5047006"
+     inkscape:window-width="1680"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ece7b6;fill-opacity:1;stroke:none;stroke-width:0.591029;stroke-linecap:round;stroke-dashoffset:2.57008;stroke-opacity:1"
+       id="rect1"
+       width="4.2333331"
+       height="0.79374999"
+       x="-2.1166666"
+       y="2.5965436"
+       ry="0.39687499"
+       rx="0.39687499"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#ece7b6;fill-opacity:1;stroke:none;stroke-width:0.46725;stroke-linecap:round;stroke-dashoffset:2.57008;stroke-opacity:1"
+       id="rect2"
+       width="2.6458333"
+       height="0.79374999"
+       x="1.0832744"
+       y="0.50371534"
+       ry="0.39687499"
+       rx="0.39687499" />
+    <rect
+       style="fill:#ece7b6;fill-opacity:1;stroke:none;stroke-width:0.46725;stroke-linecap:round;stroke-dashoffset:2.57008;stroke-opacity:1"
+       id="rect3"
+       width="2.6458333"
+       height="0.79374999"
+       x="0.50371534"
+       y="2.9353571"
+       ry="0.39687499"
+       transform="matrix(0,1,1,0,0,0)"
+       rx="0.39687499" />
+  </g>
+</svg>
