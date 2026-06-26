@@ -11,11 +11,11 @@
 
 @font-face {
     font-family: 'title-font';
-    src: url('../fonts/salma-pro-medium-narrow.medium.otf')
+    src: url('/temporary-showroom/fonts/salma-pro-medium-narrow.medium.otf')
 }
 @font-face {
     font-family: 'main-font';
-    src: url('../fonts/Montserrat-Medium.ttf')
+    src: url('/temporary-showroom/fonts/Montserrat-Medium.ttf')
 }
 
 html {
@@ -61,7 +61,7 @@ body {
 .display-logo {
     width: 200px;
     height: 200px;
-    background: url('../img-in-use/logo-special.svg');
+    background: url('/temporary-showroom/img/logo-special.svg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -97,11 +97,11 @@ body {
 }
 .banner-content {
     height: calc(67svh - 2px);
-    background-image: url("../img-in-use/banner-bg.png");
+    background-image: url("/temporary-showroom/img/banner-bg.png");
 }
 .footer-banner-content {
     height: calc(50svh - 2px);
-    background-image: url("../img-in-use/footer-banner-bg.png");
+    background-image: url("/temporary-showroom/img/footer-banner-bg.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -110,7 +110,7 @@ body {
 .banner-logo {
     width: 144px;
     height: 25px;
-    background: url('../img-in-use/logo-with-text.svg');
+    background: url('/temporary-showroom/img/logo-with-text.svg');
     background-position: center center;
     background-size: cover;
     position: absolute;
@@ -224,7 +224,7 @@ body {
 .banner-button-arrow {
     width: 16px;
     height: 16px;
-    background: url("../img-in-use/right-arrow.svg"),
+    background: url("/temporary-showroom/img/right-arrow.svg"),
     #a398a780;
     background-repeat: no-repeat;
     background-position: center center;
@@ -293,19 +293,19 @@ body {
     transform: rotate(-15deg);
     left: 0;
     top: 32px;
-    background: url('../img-in-use/map.png'), #343135;
+    background: url('/temporary-showroom/img/map.png'), #343135;
 }
 .rotated-image:nth-child(2) {
     transform: rotate(-5deg);
     left: 160px;
     top: 0;
-    background: url('../img-in-use/tech-expertise.png'), #343135;
+    background: url('/temporary-showroom/img/tech-expertise.png'), #343135;
 }
 .rotated-image:nth-child(3) {
     transform: rotate(10deg);
     left: 298px;
     top: 48px;
-    background: url('../img-in-use/it-service.png'), #343135;
+    background: url('/temporary-showroom/img/it-service.png'), #343135;
 }
 .rotated-image:nth-child(1):hover {
     transform: rotate(-17deg) translate(-32px, -32px);
@@ -387,7 +387,7 @@ body {
     width: 24px;
     height: 24px;
     border-radius: 8px;
-    background: url('../img-in-use/right-top-arrow.svg')
+    background: url('/temporary-showroom/img/right-top-arrow.svg')
     #7c757e80;
     background-repeat: no-repeat;
     background-size: 50%;
